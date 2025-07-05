@@ -1,0 +1,4 @@
+Instructor, John Parker, Computer Science, CSE100, CSE200, 105300.00
+Employee, Terry Maple, 39200.00, b
+Instructor, Ali Topuz, Biology, BIO244, BIO120, 84240.00
+Employee, Carol Heinz, 44800.00, b

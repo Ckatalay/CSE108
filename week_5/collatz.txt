@@ -1,0 +1,7 @@
+1960
+980
+490
+245
+245
+Decimal: 245
+Decimal to hexadecimal conversion: 365
