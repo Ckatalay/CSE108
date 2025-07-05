@@ -1,3 +1,3 @@
 # CSE108
 
-GTU CSE108 Spring 2024 quizes
+GTU CSE108 Spring 2024 quizzes
